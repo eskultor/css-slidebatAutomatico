@@ -1,0 +1,1 @@
+slidebar deslizante automatico echo con html y css
